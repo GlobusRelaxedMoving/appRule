@@ -1,4 +1,5 @@
-## Privacy agreement
+## Globus Relaxed Moving
+
 
 Before registering as a user, please read this User Agreement (the "Agreement") carefully to ensure that you fully understand the terms of this Agreement. Please read carefully and choose to accept or not accept this agreement. Your registration, login, use and other actions shall be deemed as your acceptance of this Agreement and you agree to be bound by the terms of this Agreement. This Agreement sets out the rights and obligations of APP and User with respect to APP Software Services (hereinafter referred to as "APP"). "User" means an individual who registers, logs in and uses the Service. This Agreement can be updated at any time by the APP. Once the updated terms are published, they will replace the original terms without further notice. Users can check the latest version of terms in this APP. If the user does not accept the modified terms after the modification, please stop using the service provided by APP immediately, and the user's continued use of the service will be regarded as acceptance of the modified agreement.
 I. Account registration
